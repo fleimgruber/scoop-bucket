@@ -10,7 +10,7 @@
         }
     },
     "extract_dir": "hollow",
-    "bin": "bin\\hollow.exe",
+    "bin": "hollow.exe",
     "shortcuts": [
         [
             "hollow.exe",
